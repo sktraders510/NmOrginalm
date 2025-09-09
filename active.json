@@ -1,1 +1,9 @@
-{"status":"active"}
+[
+  {
+    "device_id": "22fc45ab",
+    "latest_id": 4,
+    "mandatory": true,
+    "message": "नया अपडेट ज़रूरी है",
+    "download_url": "https://clik.now/5Zr2"
+  }
+]
